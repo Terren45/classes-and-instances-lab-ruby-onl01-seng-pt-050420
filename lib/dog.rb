@@ -1,5 +1,5 @@
 class Dog 
   
-  def dog 
+  def dog(name)
     
   end
